@@ -1,6 +1,5 @@
 import {BiGitRepoForked} from "react-icons/bi";
 import {AiFillGithub, AiFillEye} from "react-icons/ai";
-import {ImBook} from "react-icons/im";
 
 import battle_of_neighbourhoods from "../images/battle_of_neighbourhoods.png"
 import bellabeat from "../images/bellabeat.png"
@@ -54,9 +53,9 @@ const projectConfig = [
                 icon: <AiFillEye/>
             }
         ],
-        image: "crisis_detection",
-        description: "Built an NLP system capable of automatically identifying potential crises from articles, social media posts, 
-        and tweets, and generating appropriate responses to maintain the reputation of retail brands, with a focus on Amazon.",
+        image: crisis_detection,
+        description: "Built an NLP system capable of automatically identifying potential crises from articles, social media posts, " +
+        "and tweets, and generating appropriate responses to maintain the reputation of retail brands, with a focus on Amazon.",
         target: "_blank"
     },
     {
@@ -80,9 +79,9 @@ const projectConfig = [
             }
         ],
         image: bellabeat,
-        description: "Bellabeat, a high-tech manufacturer of health-focused products for women, wants to get analysed smart devices data 
-        to gain insight into how consumers are using smart devices. This analysis will help guide future marketing strategies for the 
-        team.",
+        description: "Bellabeat, a high-tech manufacturer of health-focused products for women, wants to get analysed smart devices " +
+        "data to gain insight into how consumers are using smart devices. This analysis will help guide future marketing strategies " +
+        "for the team.",
         target: "_blank"
     },
     {

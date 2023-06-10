@@ -1,11 +1,7 @@
-<<<<<<< Updated upstream
-# portfolio
-Personal website, Data scientist portfolio template
-=======
 
 <h2>
   Personal Portfolio
-  <a href="https://vishalraj247.github.io/portfolio" target="_blank">Website</a>
+  <a href="https://rodrigo-arenas.github.io/portfolio" target="_blank">Website</a>
 </h2>
 
 This is my website to resume my work as a data scientist.
@@ -72,4 +68,3 @@ an image from the `assets/images` folder.
 
 Take the `.env.example` file, put your tracking id in the 
 variable `REACT_APP_TRACKING_ID` and rename the file to `.env`
->>>>>>> Stashed changes
