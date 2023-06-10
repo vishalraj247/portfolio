@@ -12,7 +12,7 @@ const homeConfig = {
         "Data Scientist"
     ],
     about: {
-        start: "Currently pursuing master's from UTS in the coursework of Data Science. Solid " +
+        start: "Currently pursuing master's from University of Technology Sydney in the coursework of Data Science. Solid " +
                 "understanding of datasets with hands-on experience in data cleaning, data visualisation, and translating data " +
                 "analytical insights. Proficient and enthusiastic in building strong relationships with clients, team members, and " +
                 "stakeholders, including managing client expectations and requirements. ",
@@ -23,7 +23,7 @@ const homeConfig = {
         {
             id: "work-3",
             title: "Data Science Intern",
-            company: "UTS",
+            company: "University of Technology Sydney",
             description: "Engaged in a research project, I worked extensively with the CoAuthor dataset, " +
             "analysing keystroke-level data of users co-writing with GPT-3. My role involved conducting literature reviews, creating " +
             "visualisations, defining user behavioural metrics, and extending Python notebooks for NLP reports. I also developed a " +
@@ -38,7 +38,7 @@ const homeConfig = {
         {
             id: "work-2",
             title: "MSc Data Science",
-            company: "UTS",
+            company: "University of Technology Sydney",
             description: "Pursuing a Master's in Data Science and Innovation, I've gained hands-on experience in solving business " +
             "problems using the CRISP-DM approach. My academic journey has involved developing various machine-learning models, " +
             "building Monte Carlo simulation models, and performing textual analysis using NLP techniques. I've honed my skills " +
