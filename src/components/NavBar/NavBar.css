@@ -11,6 +11,7 @@
     width: 100%;
     position: sticky;
     padding: 0 !important;
+    transition: background-color 0.3s ease-in-out;
 }
 
 .navbar-nav .nav-link {
