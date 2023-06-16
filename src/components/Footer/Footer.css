@@ -5,6 +5,8 @@
     bottom: 0 !important;
     justify-content: space-between;
     margin-top: 30px;
+    padding: 20px 0;
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.2);
 }
 
 .footer-body {
@@ -13,6 +15,7 @@
     overflow: hidden;
     position: relative;
     color: #f5f5f5;
+    font-size: 1.2em;
 }
 
 .social-icons {
@@ -26,15 +29,20 @@
 
 .social-icon {
     padding: 1rem;
-    transition: background-color 0.1s ease;
+    transition: color 0.3s ease;
+    cursor: pointer;
 }
 
 .social-icon:hover {
-    background-color: #276678;
+    color: #276678;
 }
 
 @media screen and (max-width: 499px) {
     .social-icons svg {
         height: 30px;
+    }
+
+    .footer-body {
+        font-size: 1em;
     }
 }
