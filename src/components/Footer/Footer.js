@@ -4,18 +4,17 @@ import FooterItems from "./FooterItems";
 import "./Footer.css"
 
 const Footer = () => {
-
     return (
-        <Container fluid className={"footer"}>
-            <Row>
-                <Col className={"footer-body"}>
-                    <FooterItems/>
-                </Col>
-            </Row>
-        </Container>
-
+        <div className={"footer"}>
+            <Container fluid>
+                <Row>
+                    <Col className={"footer-body"}>
+                        <FooterItems/>
+                    </Col>
+                </Row>
+            </Container>
+        </div>
     )
-
 }
 
 export default Footer
