@@ -1,39 +1,46 @@
-
 .title {
-    font-size: 15em;
+    font-size: 3em;
     text-align: center;
+    color: #3f51b5;
+    margin-bottom: 2rem;
 }
-
 
 .vertical-timeline-element-title {
     text-align: center;
     margin-bottom: 0.7rem;
-    font-size: 30px !important;
+    font-size: 24px !important;
+    color: #3f51b5;
 }
 
 .vertical-timeline-element-content {
-    box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25), 0 0.4em 1.25em 0 rgba(0, 0, 0, 0.15) !important;
+    box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.15), 0 0.4em 1.25em 0 rgba(0, 0, 0, 0.05) !important;
     padding: 2em 3em !important;
-    background: #F6F6F6;
+    background: #f5f5f5;
+    border-radius: 10px;
+    transition: transform 0.3s ease-in-out;
 }
 
+.vertical-timeline-element-content:hover {
+    transform: scale(1.02);
+}
 
 .vertical-timeline-element-description{
     margin-bottom: 1rem;
-    font-size: 18px !important;
+    font-size: 16px !important;
+    color: #333;
 }
 
 .vertical-timeline-element-icon {
-    background: #263238;
+    background: #9c27b0;
     color: #fff;
 }
 
 .vertical-timeline-element-content-arrow {
-    border-right: 7px solid  #F6F6F6;
-    border-right: 7px solid  #F6F6F6;
+    border-right: 7px solid  #f5f5f5;
 }
 
 .vertical-timeline-element-date {
-    color: #263238;
+    color: #9c27b0;
+    font-weight: bold;
     margin: 0 20px;
 }
