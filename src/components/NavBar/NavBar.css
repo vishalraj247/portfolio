@@ -16,6 +16,11 @@
 .navbar-nav .nav-link {
     color: #f5f5f5 !important;
     padding: 1rem 1rem !important;
+    transition: color 0.3s ease-in-out;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #9c27b0 !important;
 }
 
 .navbar-nav .nav-item {
