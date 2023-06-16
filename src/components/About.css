@@ -1,0 +1,68 @@
+#about {
+    padding: 2rem 0;
+}
+
+.about-card {
+    background-color: #263238;
+    padding: 2rem;
+    margin: 0 auto;
+    max-width: 800px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.8) !important;
+    transition: 0.3s;
+}
+
+.about-card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8) !important;
+}
+
+.card-header {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 1rem;
+    background-color: #263238 !important;
+}
+
+.iconify {
+    font-size: 2rem;
+    margin: 0 1rem;
+}
+
+.square-icon {
+    animation: spin 2s linear infinite;
+}
+
+.triangle-icon {
+    animation: bounce 2s infinite;
+}
+
+.circle-icon {
+    animation: pulse 2s infinite;
+}
+
+.card-body {
+    background-color: #ffffff;
+    color: #263238;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0px 10px 20px rgba(0,0,0,0.19), 0px 6px 6px rgba(0,0,0,0.23);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.32em;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+@keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-20px); }
+}
+
+@keyframes pulse {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.6); }
+}

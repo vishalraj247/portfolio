@@ -1,7 +1,7 @@
 .title {
     font-size: 3em;
     text-align: center;
-    color: #3f51b5;
+    color: #2a5657;
     margin-bottom: 2rem;
 }
 
@@ -9,7 +9,14 @@
     text-align: center;
     margin-bottom: 0.7rem;
     font-size: 24px !important;
-    color: #3f51b5;
+    color: #488e90;
+}
+
+.vertical-timeline-element-subtitle {
+    text-align: center;
+    margin-bottom: 0.7rem;
+    font-size: 24px !important;
+    color: #488e90;
 }
 
 .vertical-timeline-element-content {
@@ -31,7 +38,7 @@
 }
 
 .vertical-timeline-element-icon {
-    background: #9c27b0;
+    background: #8ecccb;
     color: #fff;
 }
 
@@ -40,7 +47,7 @@
 }
 
 .vertical-timeline-element-date {
-    color: #9c27b0;
-    font-weight: bold;
+    color: #488e90;
+    font-weight: bold !important;
     margin: 0 20px;
 }

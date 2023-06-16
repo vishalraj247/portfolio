@@ -1,4 +1,5 @@
 import React from "react";
+import './About.css';
 
 const About = (props) => {
     const about = props.about.start
@@ -6,39 +7,27 @@ const About = (props) => {
 
     return (
         <section id="about">
-            <div className="about-card" style={{backgroundColor: "#3f51b5"}}>
+            <div className="about-card">
                 <div className="card-header">
                     <span
-                        className="iconify"
-                        data-icon="emojione:red-circle"
+                        className="iconify square-icon"
+                        data-icon="mdi:square-medium"
                         data-inline="false"
                     />{" "}
                     &nbsp;{" "}
                     <span
-                        className="iconify"
-                        data-icon="twemoji:yellow-circle"
+                        className="iconify triangle-icon"
+                        data-icon="mdi:triangle"
                         data-inline="false"
                     />{" "}
                     &nbsp;{" "}
                     <span
-                        className="iconify"
-                        data-icon="twemoji:green-circle"
+                        className="iconify circle-icon"
+                        data-icon="mdi:circle-medium"
                         data-inline="false"
                     />
                 </div>
-                <div
-                    className="card-body font-trebuchet text-justify ml-3 mr-3"
-                    style={{
-                        height: "auto",
-                        fontSize: "132%",
-                        lineHeight: "150%",
-                        backgroundColor: "#f5f5f5",
-                        color: "#3f51b5",
-                        padding: "2rem",
-                        borderRadius: "15px",
-                        boxShadow: "0px 10px 20px rgba(0,0,0,0.1)"
-                    }}
-                >
+                <div className="card-body font-trebuchet text-justify">
                     {about}
                     <br/>
                     {aboutExit}

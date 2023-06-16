@@ -6,7 +6,7 @@
 }
 
 .navbar {
-    background-color: #3f51b5;
+    background-color: #2a5657;
     text-align: left;
     width: 100%;
     position: sticky;
@@ -21,7 +21,7 @@
 }
 
 .navbar-nav .nav-link:hover {
-    color: #9c27b0 !important;
+    color: #027498 !important;
 }
 
 .navbar-nav .nav-item a {

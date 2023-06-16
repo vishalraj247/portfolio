@@ -1,5 +1,5 @@
 .footer {
-    background-color: #3f51b5;
+    background-color: #2a5657;
     width: 100%;
     position: absolute;
     bottom: 0 !important;
@@ -31,7 +31,7 @@
 }
 
 .social-icon:hover {
-    color: #9c27b0 !important;
+    color: #027498 !important;
     transform: scale(1.2);
 }
 

@@ -4,7 +4,9 @@ body {
 }
 
 .home-header {
-    background: linear-gradient(45deg, #3f51b5, #9c27b0);
+    background: url('home_image.jpg');
+    background-size: cover;
+    background-position: center;
     padding: 50px 0;
     color: white;
     text-align: center;
