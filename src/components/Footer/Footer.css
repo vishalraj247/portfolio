@@ -27,12 +27,12 @@
 
 .social-icon {
     padding: 1rem;
-    transition: color 0.2s ease;
+    transition: color 0.3s ease;
 }
 
 .social-icon:hover {
     color: #9c27b0 !important;
-    transform: scale(1.42);
+    transform: scale(1.32);
 }
 
 @media screen and (max-width: 499px) {
