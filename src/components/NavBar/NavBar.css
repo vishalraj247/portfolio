@@ -27,12 +27,12 @@
 .navbar-nav .nav-item {
     position: relative;
     margin-right: 20px;
-    transition: color 0.3s ease;
+    transition: color 0.5s ease;
 }
 
 .navbar-nav .nav-item a:hover {
     background-color: transparent;
-    transform: scale(1.32);
+    transform: scale(1.22);
 }
 
 .toggle-icon {
