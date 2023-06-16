@@ -1,0 +1,20 @@
+{
+  "main.css": "/portfolio/static/css/main.2af54c76.chunk.css",
+  "main.js": "/portfolio/static/js/main.4792dbfc.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.4792dbfc.chunk.js.map",
+  "static/css/1.ecfeb981.chunk.css": "/portfolio/static/css/1.ecfeb981.chunk.css",
+  "static/js/1.25434d00.chunk.js": "/portfolio/static/js/1.25434d00.chunk.js",
+  "static/js/1.25434d00.chunk.js.map": "/portfolio/static/js/1.25434d00.chunk.js.map",
+  "runtime~main.js": "/portfolio/static/js/runtime~main.ee2a1003.js",
+  "runtime~main.js.map": "/portfolio/static/js/runtime~main.ee2a1003.js.map",
+  "static/media/battle_of_neighbourhoods.png": "/portfolio/static/media/battle_of_neighbourhoods.5459fcf5.png",
+  "static/media/bellabeat.png": "/portfolio/static/media/bellabeat.5f2c4800.png",
+  "static/media/crisis_detection.png": "/portfolio/static/media/crisis_detection.986c5865.png",
+  "static/media/coauthor_thumbnail.png": "/portfolio/static/media/coauthor_thumbnail.ed3a295c.png",
+  "static/media/Home.css": "/portfolio/static/media/home_image.9295ccad.jpg",
+  "static/css/1.ecfeb981.chunk.css.map": "/portfolio/static/css/1.ecfeb981.chunk.css.map",
+  "static/css/main.2af54c76.chunk.css.map": "/portfolio/static/css/main.2af54c76.chunk.css.map",
+  "index.html": "/portfolio/index.html",
+  "precache-manifest.a1eceb9c03c6681133d2c5c2808d9ee6.js": "/portfolio/precache-manifest.a1eceb9c03c6681133d2c5c2808d9ee6.js",
+  "service-worker.js": "/portfolio/service-worker.js"
+}
