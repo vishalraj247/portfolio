@@ -6,7 +6,7 @@ const About = (props) => {
 
     return (
         <section id="about">
-            <div className="about-card" style={{backgroundColor: "#263238"}}>
+            <div className="about-card" style={{backgroundColor: "#3f51b5"}}>
                 <div className="card-header">
                     <span
                         className="iconify"
@@ -32,9 +32,11 @@ const About = (props) => {
                         height: "auto",
                         fontSize: "132%",
                         lineHeight: "150%",
-                        backgroundColor: "#F6F6F6",
-                        color: "#8e8d8a",
-                        padding: "2rem"
+                        backgroundColor: "#f5f5f5",
+                        color: "#3f51b5",
+                        padding: "2rem",
+                        borderRadius: "15px",
+                        boxShadow: "0px 10px 20px rgba(0,0,0,0.1)"
                     }}
                 >
                     {about}
