@@ -1,7 +1,7 @@
 {
   "main.css": "/portfolio/static/css/main.a791a5c6.chunk.css",
-  "main.js": "/portfolio/static/js/main.65267a2f.chunk.js",
-  "main.js.map": "/portfolio/static/js/main.65267a2f.chunk.js.map",
+  "main.js": "/portfolio/static/js/main.2f0881a0.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.2f0881a0.chunk.js.map",
   "static/css/1.0e8d3c88.chunk.css": "/portfolio/static/css/1.0e8d3c88.chunk.css",
   "static/js/1.4c3cb1c9.chunk.js": "/portfolio/static/js/1.4c3cb1c9.chunk.js",
   "static/js/1.4c3cb1c9.chunk.js.map": "/portfolio/static/js/1.4c3cb1c9.chunk.js.map",
@@ -20,9 +20,9 @@
   "static/media/flight_fare_prediction.png": "/portfolio/static/media/flight_fare_prediction.1d7512a7.png",
   "static/media/abn_lookup_tool.png": "/portfolio/static/media/abn_lookup_tool.ae5052ed.png",
   "static/media/Home.css": "/portfolio/static/media/home_image.94ba2a3f.jpg",
-  "static/css/1.0e8d3c88.chunk.css.map": "/portfolio/static/css/1.0e8d3c88.chunk.css.map",
   "static/css/main.a791a5c6.chunk.css.map": "/portfolio/static/css/main.a791a5c6.chunk.css.map",
+  "static/css/1.0e8d3c88.chunk.css.map": "/portfolio/static/css/1.0e8d3c88.chunk.css.map",
   "index.html": "/portfolio/index.html",
-  "precache-manifest.d0a9fdbe47bacaf1fd252516ad6a1d22.js": "/portfolio/precache-manifest.d0a9fdbe47bacaf1fd252516ad6a1d22.js",
+  "precache-manifest.a14c96de433f94bab9c969e22fa9fec6.js": "/portfolio/precache-manifest.a14c96de433f94bab9c969e22fa9fec6.js",
   "service-worker.js": "/portfolio/service-worker.js"
 }
